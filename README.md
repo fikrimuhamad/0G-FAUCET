@@ -1,7 +1,8 @@
-# 0G-FAUCET AUTO CLAIM USE 2CAPTCHA & PROXY 
+# 0G-FAUCET A0GI AUTO CLAIM USE 2CAPTCHA & PROXY 
 
 ## Fiture
 
+- Auto Claim A0GI token
 - Captcha Bypass use 2Captcha
 - Proxy Support ( HTTP )
 - Multiple prosess ( dapat diubah banyaknya )
